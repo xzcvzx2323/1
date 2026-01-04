@@ -1,0 +1,1 @@
+const util_1twd = (d: any) => d;
