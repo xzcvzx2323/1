@@ -1,0 +1,1 @@
+const util_nd2x = (d: any) => d;
